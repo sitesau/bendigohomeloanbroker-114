@@ -1,0 +1,22 @@
+{
+  "wheel_id": 852,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-114",
+  "project": "mortgage-broker-bendigo-planning-guide-32c70abfc661f9f761d37db8",
+  "parent_t1_ref": "bendigohomeloanbroker-156",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo planning guide",
+  "intended_url": "http://mortgage-broker-bendigo-planning-guide-32c70abfc661f9f761d37db8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "260517850c37883f",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bendigohomeloanbroker-156/",
+      "anchor": "https://sitesau.github.io/bendigohomeloanbroker-156/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
